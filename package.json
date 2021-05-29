@@ -1,0 +1,32 @@
+{
+  "name": "nfttoken",
+  "version": "1.0.0",
+  "description": "NFT token",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepthisurya/Nft-Token.git"
+  },
+  "keywords": [
+    "NFT",
+    "token",
+    "solidity",
+    "Ethereum"
+  ],
+  "author": "Deepthi Vemparala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepthisurya/Nft-Token/issues"
+  },
+  "homepage": "https://github.com/deepthisurya/Nft-Token#readme",
+  "dependencies": {
+    "@koa/cors": "^3.1.0",
+    "@koa/router": "^10.0.0",
+    "koa": "^2.13.1",
+    "koa-static": "^5.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
